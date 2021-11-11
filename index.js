@@ -2,7 +2,7 @@
 
 
 
-export function printMsg(_a,_c) {
+exports.printMsg = function(_a,_c) {
 
 
 
